@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SIGNINSIGNUP/static/css/main.e105dde8.css",
-    "main.js": "/SIGNINSIGNUP/static/js/main.2f4472ae.js",
-    "index.html": "/SIGNINSIGNUP/index.html",
-    "main.e105dde8.css.map": "/SIGNINSIGNUP/static/css/main.e105dde8.css.map",
-    "main.2f4472ae.js.map": "/SIGNINSIGNUP/static/js/main.2f4472ae.js.map"
+    "main.css": "/SIGNINSIGNUPLOGIN/static/css/main.e105dde8.css",
+    "main.js": "/SIGNINSIGNUPLOGIN/static/js/main.2f4472ae.js",
+    "index.html": "/SIGNINSIGNUPLOGIN/index.html",
+    "main.e105dde8.css.map": "/SIGNINSIGNUPLOGIN/static/css/main.e105dde8.css.map",
+    "main.2f4472ae.js.map": "/SIGNINSIGNUPLOGIN/static/js/main.2f4472ae.js.map"
   },
   "entrypoints": [
     "static/css/main.e105dde8.css",
