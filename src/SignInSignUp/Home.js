@@ -9,7 +9,6 @@ function Home(){
         localStorage.clear()
         window.location.reload()
     }
-    
     return(
         <div>
             <h1>Home Page </h1>
